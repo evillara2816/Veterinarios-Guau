@@ -1,0 +1,77 @@
+> RENTABILIDAD
+
+ 
+
+- Incrementar Margen
+    - Reducir devoluciones
+
+    - MODULAR LAS VENTAS 
+       Segun el margen
+            - Articulos  A,B,C
+            - Clientes   A,B,C  , ofertas especificas
+            QUITAR Productos o Clientes "C"  ¿ Cómo afecta al portfolio ?
+
+       Estacionalidad ?
+            Pico  -> Extrapolar los puntos fuertes (que me hace vender mas)
+            Valle -> Capacidad excente 
+
+
+ 
+
+- Aumentar Venta     
+     - Puedo vender mas?
+     - Problema de operaciones : ¿ salidas en tiempo razonable ?   Puedo vender mas?  Tengo un Tope?
+          : (Entregé antes de que pidieran)  
+          : DIAS DE SERVICIO = Fecha entrega - Fecha pedido
+          : UNIDADES DESPACHADAS por dia
+     - Percepcion del cliente
+        - Cada cuanto compra, repite, ...
+     -  Perfil de cliente (Clusterizacion) (cf. modulación)
+        - Zonificacion
+
+- Reducir Coste
+    - Reducir devoluciones :
+
+ 
+
+- Proveedor : 
+    - ABC  
+    - Caracteristicas del servicio : 
+        +- fecha caducidad ?  es un problema ?
+
+
+ 
+
+- Descuentos
+
+ 
+
+- Impacto de los negativos en el importe neto
+
+ 
+
+
+- PARETO:
+        - Unidades 
+        - Margen
+
+
+ 
+
+            
+
+ 
+
+********************************************************************************
+
+- SESGO EN MUESTRA : Analizar el dato que no esta : Aprovechar los "agujeros"
+- ANALISIS OUTLAYERS
+- ANALISIS DE SENSI.
+- PARETO
+- IMPACTO DE LOS CAMBIOS
+- RELACIONES ENTRE VARIABLES / PRODUCTOS
+- VARIAVILIDAD
+- CLUSTERIZACION
+- TENDENCIAS
+
+********************************************************************************
